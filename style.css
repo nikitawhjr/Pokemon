@@ -1,0 +1,103 @@
+
+h2{
+    color:red;
+    font-size: 0.45in;
+}
+
+.menu{
+    background-color: yellow;
+    border: solid;
+    display:flex;
+    font-family: sans-serif;
+    padding:15px;
+    
+    font-weight: 400;
+    justify-content:space-between;
+}
+
+.para{
+    background-color: yellow;
+    border: solid;
+    display:flex;
+    font-family: sans-serif;
+    padding:15px;
+    font-weight: 400;
+    justify-content:space-between;
+}
+
+.paragraph{
+    background-color: yellow;
+    border: solid;
+    display:flex;
+    font-family: sans-serif;
+    padding:15px;
+    font-weight: 400;
+    font-size:0.25in;
+    justify-content:space-between;
+}
+
+.one{
+    background-color: yellow;
+    border: solid;
+    display:flex;
+    font-family: sans-serif;
+    padding:15px;
+    font-weight: 400;
+    font-size:0.25in;
+    justify-content:space-between;
+}
+
+.two{
+    background-color: yellow;
+    border: solid;
+    display:flex;
+    font-family: sans-serif;
+    padding:15px;
+    font-weight: 400;
+    font-size:0.25in;
+    justify-content:space-between;
+}
+
+.three
+{
+    background-color: yellow;
+    border: solid;
+    display:flex;
+    font-family: sans-serif;
+    padding:15px;
+    font-weight: 400;
+    font-size:0.25in;
+    justify-content:space-between;
+}
+
+.four
+{
+    background-color: yellow;
+    border: solid;
+    display:flex;
+    font-family: sans-serif;
+    padding:15px;
+    font-weight: 400;
+    font-size:0.25in;
+    justify-content:space-between;
+}
+
+.two:hover{
+    transform: scale(1.02);
+}
+
+.one:hover{
+    transform: scale(1.02);
+}
+
+.three:hover{
+    transform: scale(1.02);
+}
+
+.four:hover{
+    transform: scale(1.02);
+}
+
+.paragraph:hover{
+    transform: scale(1.02);
+}
